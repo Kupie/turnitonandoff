@@ -1,9 +1,10 @@
-# turnitonandoff
+# turnitonandoff - WIP
 
-A rimworld mod by me
+A rimworld mod by hooap, WIP to work with Rimfactory by me
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2007163386
 
+
+ORIGINAL TEXT:
 ------
 
 This makes many electrical machines use minimum possible power (1 watt or user defined) when not in use. In addition, many electrical machines from other mods should behave the same way.
